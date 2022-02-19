@@ -24,5 +24,5 @@ const start = async () => {
     console.log(error);
   }
 };
-
+console.log("Commit test");
 start();
